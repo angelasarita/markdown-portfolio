@@ -1,1 +1,8 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+
+*Microsoft Word*
+_Microsoft Excel_
+
+**Microsoft Powerpoint** 
+__Researcher__
+
+_Data **Entry**_
